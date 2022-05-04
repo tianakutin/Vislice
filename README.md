@@ -12,3 +12,5 @@ Ta stavek sem napisal neposredno v githubu
 ## Avtorji
 Avtorji so:
 - Tiana Kutin
+
+## Uporaba robota
