@@ -1,14 +1,14 @@
 # Vislice
 
-#Kratek opis igre
+# Kratek opis igre
 
 Ugibaj črke in ugani besedo.
 Izogni se smrti.
 
-###Podpodnalslov 1
+### Podpodnalslov 1
 
 Ta stavek sem napisal neposredno v githubu
 
-## Pravi avtorji
-- Tiana
-- Kutin
+## Avtorji
+Avtorji so:
+- Tiana Kutin
