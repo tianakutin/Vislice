@@ -2,7 +2,9 @@
 
 #Kratek opis igre
 
-Ugibaj èrke in ugani besedo.
+Ugibaj Ärke in ugani besedo.
 Izogni se smrti.
 
 ###Podpodnalslov 1
+
+Ta stavek sem napisal neposredno v githubu
