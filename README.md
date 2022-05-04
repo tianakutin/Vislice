@@ -1,2 +1,8 @@
 # Vislice
-Pirati jih sovra≈æijo
+
+#Kratek opis igre
+
+Ugibaj Ërke in ugani besedo.
+Izogni se smrti.
+
+###Podpodnalslov 1
