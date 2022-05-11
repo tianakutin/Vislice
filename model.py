@@ -77,7 +77,7 @@ def nova_igra():
     return Igra(geslo)
 
 class Vislice:
-    def __init__(self, igre):
+    def __init__(self):
         self.igre = {}
 
     def prost_id_igre(self):
